@@ -29,7 +29,7 @@ How To Create a Wonderful Slide
 ![text&pic1](./img/text3.png)
 ![text&pic1](./img/Z-wave_overview.055.jpeg)
 
-# 只有图片的页面
+## 只有图片的页面
 采用母版布局3,注意色彩搭配，可以自由发挥   
 ![pic](./img/pic.png)
 
@@ -52,3 +52,7 @@ How To Create a Wonderful Slide
 
 # 动画
 Keynote建议多使用magic move，PPT则可使用Morph。
+
+# Example
+提供了一个例程供参考，大家可以直接复制slide某一页，在上面修改成你需要的内容： slide_example.pptx    
+提供了一个动画例程供参考如何使用Moroph：animation_example.pptx
